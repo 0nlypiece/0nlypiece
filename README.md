@@ -77,7 +77,7 @@
 <p><b>📱 Mobile App Development (Medium)</b></p>
 
 <div style="margin: 6px 0;">
-  <div><b>Mobile App Dev — Medium</b></div>
+  <div><b>Android — Medium</b></div>
   <div style="background:#ddd; border-radius:10px; height:12px; width:300px; max-width:100%;">
     <div style="background:#6fa3ff; height:12px; width:60%; border-radius:10px;"></div>
   </div>
