@@ -1,75 +1,64 @@
 <h2>🚀 Programming Skills</h2>
 
-<div style="margin: 8px 0;">
-  <div style="font-weight:bold; font-size:14px;">C — 55%</div>
-  <div style="width:100%; max-width:400px; background:#e5e7eb; border-radius:999px; overflow:hidden;">
-    <div style="height:12px; width:55%; background:linear-gradient(90deg,#4f8cff,#6bb4ff); border-radius:999px;"></div>
-  </div>
+<b>C — 55%</b>
+<div style="background:#ddd; border-radius:10px; height:12px; width:300px;">
+  <div style="background:#4f8cff; height:12px; width:55%; border-radius:10px;"></div>
 </div>
+<br>
 
-<div style="margin: 8px 0;">
-  <div style="font-weight:bold; font-size:14px;">C++ — 50%</div>
-  <div style="width:100%; max-width:400px; background:#e5e7eb; border-radius:999px; overflow:hidden;">
-    <div style="height:12px; width:50%; background:linear-gradient(90deg,#4f8cff,#6bb4ff); border-radius:999px;"></div>
-  </div>
+<b>C++ — 50%</b>
+<div style="background:#ddd; border-radius:10px; height:12px; width:300px;">
+  <div style="background:#4f8cff; height:12px; width:50%; border-radius:10px;"></div>
 </div>
+<br>
 
-<div style="margin: 8px 0;">
-  <div style="font-weight:bold; font-size:14px;">C# — 60%</div>
-  <div style="width:100%; max-width:400px; background:#e5e7eb; border-radius:999px; overflow:hidden;">
-    <div style="height:12px; width:60%; background:linear-gradient(90deg,#4f8cff,#6bb4ff); border-radius:999px;"></div>
-  </div>
+<b>C# — 60%</b>
+<div style="background:#ddd; border-radius:10px; height:12px; width:300px;">
+  <div style="background:#4f8cff; height:12px; width:60%; border-radius:10px;"></div>
 </div>
+<br>
 
-<div style="margin: 8px 0;">
-  <div style="font-weight:bold; font-size:14px;">Python — 58%</div>
-  <div style="width:100%; max-width:400px; background:#e5e7eb; border-radius:999px; overflow:hidden;">
-    <div style="height:12px; width:58%; background:linear-gradient(90deg,#4f8cff,#6bb4ff); border-radius:999px;"></div>
-  </div>
+<b>Python — 58%</b>
+<div style="background:#ddd; border-radius:10px; height:12px; width:300px;">
+  <div style="background:#4f8cff; height:12px; width:58%; border-radius:10px;"></div>
 </div>
+<br>
 
-<div style="margin: 8px 0;">
-  <div style="font-weight:bold; font-size:14px;">Java — 52%</div>
-  <div style="width:100%; max-width:400px; background:#e5e7eb; border-radius:999px; overflow:hidden;">
-    <div style="height:12px; width:52%; background:linear-gradient(90deg,#4f8cff,#6bb4ff); border-radius:999px;"></div>
-  </div>
+<b>Java — 52%</b>
+<div style="background:#ddd; border-radius:10px; height:12px; width:300px;">
+  <div style="background:#4f8cff; height:12px; width:52%; border-radius:10px;"></div>
 </div>
+<br><br>
 
 <h2>🎨 Frontend</h2>
 
-<div style="margin: 8px 0;">
-  <div style="font-weight:bold; font-size:14px;">HTML — 60%</div>
-  <div style="width:100%; max-width:400px; background:#e5e7eb; border-radius:999px; overflow:hidden;">
-    <div style="height:12px; width:60%; background:linear-gradient(90deg,#4f8cff,#6bb4ff); border-radius:999px;"></div>
-  </div>
+<b>HTML — 60%</b>
+<div style="background:#ddd; border-radius:10px; height:12px; width:300px;">
+  <div style="background:#4f8cff; height:12px; width:60%; border-radius:10px;"></div>
 </div>
+<br>
 
-<div style="margin: 8px 0;">
-  <div style="font-weight:bold; font-size:14px;">CSS — 55%</div>
-  <div style="width:100%; max-width:400px; background:#e5e7eb; border-radius:999px; overflow:hidden;">
-    <div style="height:12px; width:55%; background:linear-gradient(90deg,#4f8cff,#6bb4ff); border-radius:999px;"></div>
-  </div>
+<b>CSS — 55%</b>
+<div style="background:#ddd; border-radius:10px; height:12px; width:300px;">
+  <div style="background:#4f8cff; height:12px; width:55%; border-radius:10px;"></div>
 </div>
+<br>
 
-<div style="margin: 8px 0;">
-  <div style="font-weight:bold; font-size:14px;">JavaScript — 50%</div>
-  <div style="width:100%; max-width:400px; background:#e5e7eb; border-radius:999px; overflow:hidden;">
-    <div style="height:12px; width:50%; background:linear-gradient(90deg,#4f8cff,#6bb4ff); border-radius:999px;"></div>
-  </div>
+<b>JavaScript — 50%</b>
+<div style="background:#ddd; border-radius:10px; height:12px; width:300px;">
+  <div style="background:#4f8cff; height:12px; width:50%; border-radius:10px;"></div>
 </div>
+<br><br>
 
 <h2>🎮 Game & Mobile</h2>
 
-<div style="margin: 8px 0;">
-  <div style="font-weight:bold; font-size:14px;">Unity — 55%</div>
-  <div style="width:100%; max-width:400px; background:#e5e7eb; border-radius:999px; overflow:hidden;">
-    <div style="height:12px; width:55%; background:linear-gradient(90deg,#4f8cff,#6bb4ff); border-radius:999px;"></div>
-  </div>
+<b>Unity — 55%</b>
+<div style="background:#ddd; border-radius:10px; height:12px; width:300px;">
+  <div style="background:#4f8cff; height:12px; width:55%; border-radius:10px;"></div>
 </div>
+<br>
 
-<div style="margin: 8px 0;">
-  <div style="font-weight:bold; font-size:14px;">Mobile App Dev — 50%</div>
-  <div style="width:100%; max-width:400px; background:#e5e7eb; border-radius:999px; overflow:hidden;">
-    <div style="height:12px; width:50%; background:linear-gradient(90deg,#4f8cff,#6bb4ff); border-radius:999px;"></div>
-  </div>
+<b>Mobile App Dev — 50%</b>
+<div style="background:#ddd; border-radius:10px; height:12px; width:300px;">
+  <div style="background:#4f8cff; height:12px; width:50%; border-radius:10px;"></div>
 </div>
