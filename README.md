@@ -14,6 +14,12 @@
     <div style="background:#b0c8ff; height:12px; width:30%; border-radius:10px;"></div>
   </div>
 </div>
+<div style="margin: 6px 0;">
+  <div><b>python-UI-Desing — Beginner</b></div>
+  <div style="background:#ddd; border-radius:10px; height:12px; width:300px; max-width:100%;">
+    <div style="background:#b0c8ff; height:12px; width:30%; border-radius:10px;"></div>
+  </div>
+</div>
 
 <div style="margin: 6px 0;">
   <div><b>C# — Beginner</b></div>
